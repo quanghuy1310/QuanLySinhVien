@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\giuaky\giuaky\bin\Debug\giuaky.exe.config
+C:\Users\DELL\source\repos\giuaky\giuaky\bin\Debug\giuaky.exe
+C:\Users\DELL\source\repos\giuaky\giuaky\bin\Debug\giuaky.pdb
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.FormGK2.resources
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.Properties.Resources.resources
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.exe
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.pdb
+C:\Users\DELL\source\repos\giuaky\giuaky\obj\Debug\giuaky.FormTimKiem.resources
